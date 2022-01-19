@@ -10,6 +10,11 @@
     {
         "make": "Samsung",
         "model": "S10"
+    },
+
+    {
+        "make": "Huawei",
+        "model": "P20"
     }
 
 
