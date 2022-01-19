@@ -1,0 +1,18 @@
+{
+
+    "phones":[{
+
+        "make":"Iphone",
+        "model" : "X"
+
+    },
+
+    {
+        "make": "Samsung",
+        "model": "S10"
+    }
+
+
+
+]
+}
